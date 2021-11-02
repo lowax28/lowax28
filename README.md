@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#fff">
   Lowax
 </h1>
-<img align='right' src='https://images-ext-2.discordapp.net/external/PDzrA8MwVs-ZZs9n25pIEVACW_2ln1QAs63SmxqM8Ms/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/831123996526247966/3ae5cffb9aa15fb8fef5fed4b2a4fac4.png?width=406&height=406' width='200"'>
+<img align='right' src='https://cdn.discordapp.com/attachments/851077573264801802/905117806033534976/d8ec4a217442cdf0f76c5474751addc2.jpg' width='200"'>
 <h3>📚 About me:</h3>
 <ul>
   <li>🚀 I'm <a href="https://discord.com/users/831123996526247966">Lowax</a>, a young developer from Turkey!</li>
