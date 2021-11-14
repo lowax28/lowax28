@@ -1,7 +1,10 @@
 <h1 align="center" style="color:#fff">
   Lowax
 </h1>
-<img align='right' src='https://cdn.discordapp.com/attachments/851077573264801802/905117806033534976/d8ec4a217442cdf0f76c5474751addc2.jpg' width='200"'>
+<div align="center">
+   <a href="https://discord.com/users/753842258457002036" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/753842258457002036?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+   </a>
 <h3>📚 About me:</h3>
 <ul>
   <li>🚀 I'm <a href="https://discord.com/users/831123996526247966">Lowax</a>, a young developer from Turkey!</li>
