@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
    <a href="https://discord.com/users/831123996526247966" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/831123996526247966?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+      <img src="https://lanyard-profile-readme.vercel.app/api/831123996526247966)](https://discord.com/users/831123996526247966">
    </a>
 
 <h3>📚 About me:</h3>
